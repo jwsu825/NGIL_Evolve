@@ -18,7 +18,9 @@
 * dgllife==0.2.6
 
 ##Instruction to run the code
+
 #run baseline method without SSRM
+
 
  ```
  python train.py --dataset Arxiv-CL \
@@ -26,8 +28,10 @@
         --backbone GCN \
         --gpu 0 \
  ```
+ 
 
 #run baseline method with SSRM
+
 
  ```
  python train.py --dataset Arxiv-CL \
