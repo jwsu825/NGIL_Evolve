@@ -17,9 +17,9 @@
 * dgl==0.6.1
 * dgllife==0.2.6
 
-##Instruction to run the code
+## Instruction to run the code
 
-#run baseline method without SSRM
+# run baseline method without SSRM
 
 
  ```
@@ -30,7 +30,7 @@
  ```
  
 
-#run baseline method with SSRM
+# run baseline method with SSRM
 
 
  ```
